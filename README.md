@@ -1,5 +1,4 @@
-# PRESENTACION:
-# MI NOMBRE ES ANDREA LLAVEL  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/fcd23e83-8c29-4355-9d17-4191d1042e94) ESTUDIANTE 2022/2023 DE LA CARRERA:
+# PRESENTACION: MI NOMBRE ES ANDREA LLAVEL  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/fcd23e83-8c29-4355-9d17-4191d1042e94) ESTUDIANTE 2022/2023 DE LA CARRERA:
 # TECNICATURA UNIVERSITARIA EN PROGRAMACION(UTN).ARGENTINA.
 
 # ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/a418f196-9433-4e4e-8240-09e0f73fe303)
