@@ -1,5 +1,6 @@
 # PRESENTACION:
-# MI NOMBRE ES ANDREA LLAVEL
+# MI NOMBRE ES ANDREA LLAVEL ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/aacd262c-fbfb-4077-98b9-fd9dacdca945)
+
 # ESTUDIANTE 2022/2023 DE LA CARRERA:
 # TECNICATURA UNIVERSITARIA EN PROGRAMACION(UTN).ARGENTINA.
 
@@ -10,7 +11,7 @@
 # PYTHON ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/2eb1544a-6365-4488-980c-a985b06a94c7)
 
 # JAVA  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/55dd5d45-0746-443a-a863-356631fb7fc7)
-![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/56f3b0e4-c673-49f6-9a32-e7ff00b57796)
+# JAVA INTELLIJ  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/56f3b0e4-c673-49f6-9a32-e7ff00b57796)
 
 # JAVASCRIPT HTML CSS ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/58dda9ce-6cb6-4c44-b531-f75fbe0b1118)
 
