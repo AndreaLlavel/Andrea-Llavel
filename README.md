@@ -16,6 +16,13 @@
 
 # DJANGO  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/8632e25e-0f16-4281-9c32-a6d3111aaaf0)
 
-# MySQL-SQLITE3
-# GIT BASH
-# LENGUAJE R
+# MySQL  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/9d5259c0-41cf-4e86-8944-c0b79b129eb4)
+
+# SQLITE3  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/0f0bdd3e-2cd2-4ce5-8d2e-28388afe9a4a)
+
+# GIT BASH  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/7bd4d50c-aaa0-4e01-90ee-a3c6c339e342)
+
+# LENGUAJE R  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/3e0a74b7-aec5-42d8-a622-5aa0d61345f6)
+# APLICACIONES  ![image](https://github.com/AndreaLlavel/Andrea_Llavel_Presentacion/assets/112596102/ee49dbda-b7ce-4c49-a411-667547a186e6)
+
+
